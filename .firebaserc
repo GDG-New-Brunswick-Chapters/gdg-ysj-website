@@ -1,6 +1,6 @@
 {
   "projects": {
-    "default": "gdg-tokyo-website",
-    "staging": "gdg-tokyo-website-stg"
+    "default": "gdg-ysj-website",
+    "staging": "gdg-ysj-website-stg"
   }
 }
